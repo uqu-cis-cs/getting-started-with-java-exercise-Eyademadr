@@ -13,7 +13,7 @@ package edu.uqu.cs;
  
 Public class App
 {
-    private static void main( String[] args )
+    public static void main( String[] args )
     {
         System.out.println( "Eyad Rafah , 443010308" );
     }
