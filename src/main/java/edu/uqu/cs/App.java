@@ -11,8 +11,7 @@ package edu.uqu.cs;
  *      b.	Change <Student ID> to your student ID
  */
  
-Public class App
-{
+public class App {
     public static void main( String[] args )
     {
         System.out.println( "Eyad Rafah , 443010308" );
